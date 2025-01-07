@@ -18,8 +18,6 @@ Welcome to **Adventure Awaits**, a beautiful and responsive website that invites
 - **Swiper.js** - Slick image carousels and sliders.
 - **ScrollReveal.js** - Scrolling animations and fade-ins.
 
-## Project Structure
 
-Here is an overview of the project structure:
 
 
