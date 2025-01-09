@@ -8,6 +8,7 @@ Welcome to **Adventure Awaits**, a beautiful and responsive website that invites
 - Smooth scroll animations and transitions.
 - Interactive components powered by **JavaScript** and **Swiper.js**.
 - Clean and modern design, with easy-to-navigate sections.
+- Deployed on GitHub pages.
 
 ## Technologies Used
 
