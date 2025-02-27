@@ -18,6 +18,3 @@ Welcome to **Adventure Awaits**, a beautiful and responsive website that invites
 - **Bootstrap** - Grid system and UI components.
 - **Swiper.js** - Slick image carousels and sliders.
 - **ScrollReveal.js** - Scrolling animations and fade-ins...
-- 
-
-
